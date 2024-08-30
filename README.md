@@ -1,6 +1,6 @@
 # Prodigy InfoTech Internship: Machine Learning Insights
 
-Welcome to the Prodigy InfoTech Internship repository! This repository documents are for Task 2 of my internship journey, focusing on implementing a linear regression model to predict house prices based on square footage, the number of bedrooms, and the number of bathrooms.
+Welcome to the Prodigy InfoTech Internship repository! This repository documents are for Task 2 of my internship journey, focusing on implementing a K-Means Clustering model for customer segmentation of a mall.
 
 ## Task Overview
 
